@@ -30,3 +30,8 @@ JSFuzzPro is an advanced JavaScript fuzzing tool for automated endpoint identifi
 
 `python JSFuzzPro.py example.com -w -p wordlist.txt`
 
+## Requirements
+- To install the required dependencies, run the following command.
+
+`pip install -r requirements.txt`
+
